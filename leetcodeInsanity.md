@@ -1,4 +1,5 @@
 # Todo for each problem
+Use Shift + Command + V to view in reader mode
 
 1. Solve the problem without looking at the solution. Talk aloud while working through this step. If stuck, look at the solution and understand which step was the sticking point, then go back to solve the problem with the updated understanding of the problem and solution without looking at the solution. 
 
@@ -20,3 +21,5 @@ List any questions I have about the problem and ask
 - Don't be afraid of repetition if two problems are similar still be comprehensive when asking the above questions of both problems in writing the answers down
 
 7. Whenever you feel like there are things that give you anxiety in DSA, e.g. I still don't know what kind of problems does sliding window solve, write them down the list and solve every one of them
+
+
